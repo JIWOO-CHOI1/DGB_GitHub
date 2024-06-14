@@ -23,12 +23,12 @@ pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install numpy
 ```
 
 ## 목차
-* [깃허브](/dgb)
-* [파이썬 기초 및 문법](/dgb/data.txt)
-* [데이터 분석 기초]()
-* [시각화]()
-* [가설검정]()
-* [머신러닝 및 특성공학]()
+  * [깃허브](/dgb)
+  * [파이썬 기초 및 문법](/dgb/data.txt)
+  * [데이터 분석 기초]()
+  * [시각화]()
+  * [가설검정]()
+  * [머신러닝 및 특성공학]()
 
 ## 문의사항
 
