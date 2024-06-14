@@ -37,4 +37,4 @@ _언더바 하나도 기울임으로 표시합니다_
 
 ~~*취소선과 기울임*~~
 
-[Day_01].([/dgb/ha.txt](https://github.com/JIWOO-CHOI1/DGB_GitHub/blob/main/dgb/ha.txt))
+[Day_01](https://github.com/JIWOO-CHOI1/DGB_GitHub/blob/main/dgb/ha.txt)
